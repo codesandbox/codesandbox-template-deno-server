@@ -1,0 +1,11 @@
+{
+  "name": "codesandbox-template-deno-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codesandbox/codesandbox-template-deno-server.git",
+  "author": "Ives van Hoorne <ives@codesandbox.io>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "deno run --watch --allow-net server.ts"
+  }
+}
